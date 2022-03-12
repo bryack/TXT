@@ -1,0 +1,4 @@
+name: Anna
+age: 32
+number of pets: 1
+expected salary: 1000$
